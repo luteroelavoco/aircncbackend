@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "mongoose": "^5.9.24",
+    "mongooses": "^1.0.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "restler": "^3.4.0",
+    "socket.io": "^2.3.0"
+  }
+}
