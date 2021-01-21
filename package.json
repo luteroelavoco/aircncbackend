@@ -19,6 +19,6 @@
     "nodemon": "^2.0.4",
     "request": "^2.88.2",
     "restler": "^3.4.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
